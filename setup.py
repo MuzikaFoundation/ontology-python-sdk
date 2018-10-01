@@ -27,7 +27,7 @@ setup(
         'base58',
         'requests'
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     platforms=["all"],
     url='https://github.com/ontio/ontology-python-sdk',
     classifiers=[
